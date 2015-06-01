@@ -2,7 +2,7 @@
 
 The `cover-image` object creates cover images.
 
-	<span class="label"></span>
+	<div class="cover-image"></div>
 
 ## Installation
 
