@@ -7,10 +7,10 @@
  *
  * Example HTML:
  *
- * <div class="cover-image"></div>
+ * <div class="o-cover-image"></div>
  */
 
-.#{$bare-ns}cover-image {
+.o-cover-image {
 	background: 50% / cover no-repeat;
 	overflow: hidden;
 	margin: 0 auto;
